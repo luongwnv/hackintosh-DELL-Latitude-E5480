@@ -1178,7 +1178,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 alcid=69</string>
+				<string>keepsyms=1 alcid=69 -lilubetaall</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1249,9 +1249,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02727130J9HWVP1F</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1261,9 +1261,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02V1RZVHV29</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>D41B00AE-E604-4D20-A8FD-90917D5CE439</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
